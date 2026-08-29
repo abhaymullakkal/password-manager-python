@@ -1,2 +1,18 @@
-# password-manager-python
-A simple password manager built using Python and Tkinter.
+# Password Manager
+
+A simple password manager built with Python and Tkinter.
+
+## Features
+
+- Generate secure passwords
+- Save website credentials
+- Search saved passwords
+- Copy passwords to clipboard
+- Store credentials locally
+
+## Technologies
+
+- Python
+- Tkinter
+- JSON
+- Random
