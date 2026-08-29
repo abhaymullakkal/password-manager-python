@@ -6,7 +6,7 @@ A simple password manager built with Python and Tkinter.
 
 - Generate secure passwords
 - Save website credentials
-- Search saved passwords
+- Search saved website
 - Copy passwords to clipboard
 - Store credentials locally
 
